@@ -1,2 +1,2 @@
-# Login-ang-sinup-form
+# Login-and-sinup-form
 Assigment
